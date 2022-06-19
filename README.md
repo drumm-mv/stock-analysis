@@ -11,9 +11,9 @@ To expand upon the original requested script we will refactor the current code t
 ### Conclusions for Refactoring Code
 Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
 
-![image_name](resources/VBA_Challenge_2017_Org_Code.png)|![image_name](resources/VBA_Challenge_2018_Org_Code.png)
+![image_name](resources/VBA_Challenge_2017_Org_Code.png) ![image_name](resources/VBA_Challenge_2018_Org_Code.png)
 
-![image_name](resources/VBA_Challenge_2017.png)|![image_name](resources/VBA_Challenge_2018.png)
+![image_name](resources/VBA_Challenge_2017.png) ![image_name](resources/VBA_Challenge_2018.png)
 
 ## Summary
 In a summary statement, address the following questions.
