@@ -1,9 +1,10 @@
 # Stock-analysis
+Read through a list of stock quotes and return the total value as well as Return on investment percentage
 
 ## Overview of Project
 
 ### Purpose of Analysis
-Explain the purpose and background of this analysis.
+To expand upon the original requested script we will refactor the current code to increase processing speed. Although the current code works well for a dozen stocks, it might not work as well for substantially larger lists stocks; it may take a long time to execute.
 
 ## Results
 
