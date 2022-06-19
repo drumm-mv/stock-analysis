@@ -39,3 +39,12 @@ In a summary statement, address the following questions.
 |Removed redundancies and duplications<br>improves the effectiveness of the code|The benefit is not self-evident;<br>Improved code difficult for user to recognize<br>when the functionality stays the same|
 
  - How do these pros and cons apply to refactoring the original VBA script?
+
+## Conclusion
+In conclusion the following items could be added to provide additional functionality to current script:
+ - Update the ticker array to review stock list to provide full list of stocks contain in original dataset
+
+
+
+
+
