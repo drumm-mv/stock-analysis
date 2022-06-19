@@ -1,5 +1,17 @@
 # Stock-analysis
-Read through a list of stock quotes and return the total value as well as Return on investment percentage
+Read through a list of stock quotes and return a table showing the total Value as well as Return on investment percentage for the following stock tickers:
+ - AY
+ - CSIQ
+ - DQ
+ - ENPH
+ - FSLR
+ - HASI
+ - JKS
+ - RUN
+ - SEDG
+ - SPWR
+ - TERP
+ - VSLR
 
 ## Overview of Project
 
