@@ -26,16 +26,13 @@ The following images show the processing speed after refactoring while running a
 | --- | --- |
 |Removed redundancies and duplications<br>improve the effectiveness of the code|Imprecise refactoring could introduce<br>new bugs and errors into the code<br>|
 |Improved legibility improves the<br>comprehensibility of the code for other<br>programmers|There is no clear definition of “neat code”<br>|
-|Removed redundancies and duplications<br>improves the effectiveness of the code|The benefit is not self-evident;<br>Improved code difficult for user to recognize<br>when the functionality stays the same|
+|Restructuring the code is possible<br>without altering the functionality|The benefit is not self-evident;<br>Improved code difficult for user to recognize<br>when the functionality stays the same|
 
-Click [here](https://www.ionos.com/digitalguide/websites/web-development/what-is-refactoring/) to see the article that the above advantages and disadvantages of refactor were borrowed from. The article is related to web-development but the list can be applied here as well.
-
+Click [here](https://www.ionos.com/digitalguide/websites/web-development/what-is-refactoring/) to see the article that the above advantages and disadvantages of refactoring were borrowed from. The article is related to web-development but the list can be applied here as well.
 
  - How do these pros and cons apply to refactoring the original VBA script?
 
-## Conclusion
-In conclusion the following items could be added to provide additional functionality to current script:
- - Update the ticker array to review stock list to provide full list of stocks contain in original dataset
+
 
 
 
