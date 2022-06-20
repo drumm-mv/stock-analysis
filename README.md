@@ -1,30 +1,20 @@
 # Stock-analysis
-Read through a list of stock quotes and return a table showing the total Value as well as Return on investment percentage for the following stock tickers:
- - AY
- - CSIQ
- - DQ
- - ENPH
- - FSLR
- - HASI
- - JKS
- - RUN
- - SEDG
- - SPWR
- - TERP
- - VSLR
 
 ## Overview of Project
 
 ### Purpose of Analysis
-To expand upon the original requested script we will refactor the current code to increase processing speed. Although the current code works well for a dozen stocks, it might not work as well for substantially larger lists stocks; it may take a long time to execute.
+To read through a list of stock quotes and return a table showing the total Value as well as Return on investment percentage for the following stock tickers: "AY", "CSIQ", "DQ", "ENPH", "FSLR", "HASI", "JKS", "RUN", "SEDG", "SPWR", "TERP", "VSLR
+In addition to expand upon the original requested script we have refactored the current code to increase processing speed. Although the current code works well for a dozen stocks, it might not work as well for substantially larger lists stocks; it may take a long time to execute.
 
 ## Results
 
 ### Conclusions for Refactoring Code
 Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
 
+The following images show the processing speed of the original script.
 ![image_name](resources/VBA_Challenge_2017_Org_Code.png) ![image_name](resources/VBA_Challenge_2018_Org_Code.png)
 
+The following images show the processing speed after refactoring.
 ![image_name](resources/VBA_Challenge_2017.png) ![image_name](resources/VBA_Challenge_2018.png)
 
 ## Summary
