@@ -9,13 +9,13 @@ In addition to expand upon the original requested script we have refactored the 
 ## Results
 
 ### Conclusions for Refactoring Code
-Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
+After refactoring the code for the analysis still produces the output as expected.  But with the benefit of a drastic increase in processing speed.
 
-The following images show the processing speed of the original script while running analysis for 2017 (left) and 2018 (right).
+![image_name](/resources/Final_analysis_2017.png) ![image_name](/resources/Final_analysis_2018.png)
+
+The following images show the processing speed of the original script while running analysis for 2017 (left) and 2018 (right) followed by the processing speed after refactoring.
 
 ![image_name](resources/VBA_Challenge_2017_Org_Code.png) ![image_name](resources/VBA_Challenge_2018_Org_Code.png)
-
-The following images show the processing speed after refactoring while running analysis for 2017 (left) and 2018 (right).
 
 ![image_name](resources/VBA_Challenge_2017.png) ![image_name](resources/VBA_Challenge_2018.png)
 
