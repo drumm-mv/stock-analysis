@@ -3,8 +3,8 @@
 ## Overview of Project
 
 ### Purpose of Analysis
-    To read through a list of stock quotes and return a table showing the total Value as well as Return on investment percentage for the following stock tickers: "AY", "CSIQ", "DQ", "ENPH", "FSLR", "HASI", "JKS", "RUN", "SEDG", "SPWR", "TERP", "VSLR
-    In addition to expand upon the original requested script we have refactored the current code to increase processing speed. Although the current code works well for a dozen stocks, it might not work as well for substantially larger lists stocks; it may take a long time to execute.
+To read through a list of stock quotes and return a table showing the total Value as well as Return on investment percentage for the following stock tickers: "AY", "CSIQ", "DQ", "ENPH", "FSLR", "HASI", "JKS", "RUN", "SEDG", "SPWR", "TERP", "VSLR
+In addition to expand upon the original requested script we have refactored the current code to increase processing speed. Although the current code works well for a dozen stocks, it might not work as well for substantially larger lists stocks; it may take a long time to execute.
 
 ## Results
 
