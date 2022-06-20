@@ -9,14 +9,16 @@ In addition to expand upon the original requested script we have refactored the 
 ## Results
 
 ### Conclusions for Refactoring Code
-After refactoring the code for the analysis still produces the output as expected.  But with the benefit of a drastic increase in processing speed.
+After refactoring the code for the stock analysis, it still produces the output as expected but with the benefit of a drastic increase in processing speed.
 
 ![image_name](/resources/Final_analysis_2017.png) ![image_name](/resources/Final_analysis_2018.png)
 
 The following images show the processing speed of the original script while running analysis for 2017 (left) and 2018 (right) followed by the processing speed after refactoring.
 
+#### Before
 ![image_name](resources/VBA_Challenge_2017_Org_Code.png) ![image_name](resources/VBA_Challenge_2018_Org_Code.png)
 
+#### After
 ![image_name](resources/VBA_Challenge_2017.png) ![image_name](resources/VBA_Challenge_2018.png)
 
 ## Summary
